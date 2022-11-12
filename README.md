@@ -1,6 +1,6 @@
 # ⚡️ Yann-Edern Gillet — @yannglt
 
-Hi, welcome to my GitHub profile! I am a Product Designer and focus my work on Design Operations, Product UI Systems, Design Tokens and DX. Currently Product Designer @ [Specify](https://specifyapp.com), the first Design Data Platform helping brands unifiy their identity by collecting, storing and distributing design tokens and assets — automatically.
+Hi, welcome to my GitHub profile! I am a Product Designer and focus my work on Design Operations, Product UI Systems, Design Tokens and DX. Currently Product Designer @ [Specify](https://specifyapp.com).
 
 ## Get in touch
 - Personal Space on the Internets → [https://yannglt.com](https://yannglt.com)
